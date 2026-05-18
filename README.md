@@ -8,6 +8,7 @@ Proyecto de Excel para registrar maniobras de descarga, trabajadores, pagos pend
 - `archivos/EJEMPLO LOBA - version con datos de prueba.xlsx`: version con los datos de ejemplo originales para revisar como funciona.
 - `resumen_requisitos_automatizacion_excel.md`: resumen de lo que pidio el cliente y como se resolvio.
 - `tutorial_uso_excel_maniobras.mp4`: video corto que explica donde capturar la maniobra y como revisar pendientes/resumen/ficha.
+- `tutorial_uso_excel_maniobras_con_capturas.mp4`: version del tutorial usando capturas reales del archivo Excel.
 
 ## Que hace el Excel
 
