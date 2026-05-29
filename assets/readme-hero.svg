@@ -1,0 +1,13 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Excel Maniobras Descarga banner">
+  <rect width="1200" height="360" rx="34" fill="#effaf1"/>
+  <path d="M0 310 C180 220 310 395 510 286 C706 180 872 336 1200 170" stroke="#1f9d55" stroke-width="2" opacity=".28"/>
+  <path d="M0 58 H1200 M120 0 V360 M280 0 V360 M440 0 V360 M600 0 V360 M760 0 V360 M920 0 V360 M1080 0 V360" stroke="#102a1f" opacity=".08"/>
+  
+    <text x="70" y="128" fill="#102a1f" font-size="22" font-weight="800" letter-spacing="4">EXCEL-MANIOBRAS-DESCARGA</text>
+    <text x="70" y="192" fill="#102a1f" font-size="58" font-weight="900">Excel Maniobras Descarga</text>
+    <foreignObject x="70" y="218" width="610" height="88">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="color:#102a1f;font:700 24px Segoe UI, Arial, sans-serif;line-height:1.25">A guided Excel automation resource for maneuver download workflows and repeatable office steps.</div>
+    </foreignObject>
+  <rect x="720" y="230" width="400" height="34" rx="17" fill="#102a1f"/><circle cx="780" cy="247" r="22" fill="#1f9d55"/><circle cx="885" cy="247" r="22" fill="#1f9d55"/><circle cx="990" cy="247" r="22" fill="#1f9d55"/><rect x="780" y="95" width="220" height="105" rx="12" fill="#f6c453" stroke="#102a1f" stroke-width="5"/><path d="M815 130 H965 M815 160 H930" stroke="#102a1f" stroke-width="8"/>
+  <text x="70" y="315" fill="#102a1f" font-size="18" font-weight="800" opacity=".72">Portfolio README identity 13</text>
+</svg>
