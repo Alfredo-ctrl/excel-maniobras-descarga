@@ -1,38 +1,15 @@
-<!-- portfolio:start -->
 <p align="center">
-  <img src="assets/readme-hero.svg" alt="Excel Maniobras Descarga banner" width="100%" />
+  <img src="assets/readme-hero.svg" alt="Logistics Maneuver Automation Architectural Banner" width="100%" />
 </p>
 
-<h1 align="center">Excel Maniobras Descarga</h1>
-
-<p align="center"><strong>A guided Excel automation resource for maneuver download workflows and repeatable office steps.</strong></p>
-
 <p align="center">
-<img alt="focus: excel workflow" src="https://img.shields.io/badge/focus-excel%20workflow-1f9d55?style=for-the-badge&labelColor=102a1f" />
-  <img alt="format: guide + files" src="https://img.shields.io/badge/format-guide%20%2B%20files-1f9d55?style=for-the-badge&labelColor=102a1f" />
-  <img alt="audience: operators" src="https://img.shields.io/badge/audience-operators-1f9d55?style=for-the-badge&labelColor=102a1f" />
+  <img src="https://img.shields.io/badge/DOMAIN-LOGISTICS%20OPERATIONS-0F172A?style=flat-square&labelColor=05080F&color=0284C7" alt="DOMAIN: LOGISTICS OPERATIONS" />
+  <img src="https://img.shields.io/badge/AUTOMATION-STRUCTURED%20TEMPLATES-0F172A?style=flat-square&labelColor=05080F&color=1E293B" alt="AUTOMATION: STRUCTURED TEMPLATES" />
+  <img src="https://img.shields.io/badge/VALIDATION-DETERMINISTIC%20RULES-0F172A?style=flat-square&labelColor=05080F&color=1E293B" alt="VALIDATION: DETERMINISTIC RULES" />
+  <img src="https://img.shields.io/badge/DOCUMENTATION-STEP-BY-STEP%20SPEC-0F172A?style=flat-square&labelColor=05080F&color=1E293B" alt="DOCUMENTATION: STEP-BY-STEP SPEC" />
 </p>
-
-## Operations Identity
-
-This repo is presented like a practical process manual: files, videos, and requirements for repeating an Excel workflow without confusion.
-
-## Best For
-
-Documenting office automation steps, reducing repeated manual explanations, and keeping tutorial assets together.
-
-## Use
-
-Open the README and tutorial videos, then follow the included requirements summary.
-
-## Portfolio Note
-
-This repository has its own visual identity inside the portfolio. The goal is that every project feels like a different product, not another copy of the same template.
-<!-- portfolio:end -->
 
 ---
-
-## Existing Project Notes
 
 # Excel maestro para maniobras de descarga
 
